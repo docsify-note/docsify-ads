@@ -1,5 +1,5 @@
 export function install (hook, vm) {
-    hook.ready(function () {
+    hook.doneEach(function () {
         if(!window.$docsify.ads){
             console.warn("[docsify-ads] ads not config")
             return ;

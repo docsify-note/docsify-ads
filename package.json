@@ -1,6 +1,6 @@
 {
   "name": "docsify-ads",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "a docsify plugin to show your ads",
   "main": "src",
   "unpkg": "dist/docsify-ads.min.js",
